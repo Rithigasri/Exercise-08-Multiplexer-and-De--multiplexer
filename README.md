@@ -61,9 +61,9 @@ If the control input changes to AB = 10, then all the gates are restricted excep
 ## 4X1 MULTIPLEXER:
 ### PROGRAM:
 
-Program for 4X1 Multiplexer and verify its truth table in quartus using Verilog programming.
-Developed by: Rithiga Sri.B
-RegisterNumber:  212221230083
+Program for 4X1 Multiplexer and verify its truth table in quartus using Verilog programming.  
+Developed by: Rithiga Sri.B  
+RegisterNumber:  212221230083  
 ```
 module mux(I0,I1,I2,I3,S0,S1,Y);
 input I0,I1,I2,I3,S0,S1;
@@ -91,9 +91,9 @@ endmodule
 ## 1X4 DEMULTIPLEXER:
 ### PROGRAM:
 
-Program for 1x4 Demultiplexer  and verify its truth table in quartus using Verilog programming.
-Developed by:Rithiga Sri.B 
-RegisterNumber: 212221230083
+Program for 1x4 Demultiplexer  and verify its truth table in quartus using Verilog programming.  
+Developed by:Rithiga Sri.B   
+RegisterNumber: 212221230083  
 ```
 module demux(I,S0,S1,Y0,Y1,Y2,Y3);
 input I,S0,S1;
